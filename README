@@ -1,0 +1,10 @@
+# Memory Arena
+An extrememly simple memory region manager.
+
+## Goals
+Low overhead.
+Robust.
+Low exposure to security vulnerabilities.
+
+## WIP
+This project is in a state of "unpreparedness" it's a work in progress and should not be used for anything more than a poor reference.
